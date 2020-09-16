@@ -1,8 +1,7 @@
-package TaxiCall;
+package CallBus;
 
 import javax.persistence.*;
 import org.springframework.beans.BeanUtils;
-import java.util.List;
 
 @Entity
 @Table(name="Order_table")

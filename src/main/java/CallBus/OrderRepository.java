@@ -1,4 +1,4 @@
-package TaxiCall;
+package CallBus;
 
 import org.springframework.data.repository.PagingAndSortingRepository;
 

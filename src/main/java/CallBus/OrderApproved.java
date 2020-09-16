@@ -1,5 +1,5 @@
 
-package TaxiCall;
+package CallBus;
 
 public class OrderApproved extends AbstractEvent {
 
